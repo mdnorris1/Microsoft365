@@ -24,7 +24,7 @@ Create a Data Loss Prevention Policy and check existing ones are suitable.
 <br>
 <br>
 
-Scenario 1
+<h2>Scenario 1</h2>
 Create users
 
 
@@ -57,6 +57,8 @@ Assign licenses.
 <br />
 
 Next, I configured the authentication methods and settings. 
+<br>
+
 <br/>
 <img src="assets/Picture7.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
@@ -97,7 +99,7 @@ Add users to Self-service password reset group.
 <br />
 <br>
 
-Scenario 2: Analytics 
+<h2> Scenario 2: Analytics </h2> 
 Use the User sign-in logs, audit logs and the Usage & insights data associated with password resets by users.
 <br>
 
@@ -127,7 +129,7 @@ Use the User sign-in logs, audit logs and the Usage & insights data associated w
 <br />
 
 <br>
-Scenario 3: Multi-factor Authentication
+<h2> Scenario 3: Multi-factor Authentication </h2>
 Create a policy that will require a user to go through multi-factor authentication when accessing any of the Microsoft Admin portals
 <br>
 
@@ -157,7 +159,7 @@ Create a policy that will require a user to go through multi-factor authenticati
 <br />
 
 <br>
-Scenario 4: Privileged Identity Management (PIM)
+<h2> Scenario 4: Privileged Identity Management (PIM) </h2>
 Configure one of your users, Diego Siciliani, with a Microsoft Entra user administrator role, through Privileged ID management (PIM). With user admin privileges, Diego will be able to create users and groups manage licenses, and more. Both the admin and the user, Diego, must be configured for Microsoft Entra ID P2 licensing.
 <br>
 
@@ -188,7 +190,7 @@ Uncheck the permanently eligible box as this is a time-limited privilege.
 
 <br>
 
-Scenario 5: Compliance
+<h2> Scenario 5: Compliance </h2>
 Create a Data Loss Prevention Policy and check existing ones are suitable.
 
 Go to the Compliance admin centre (Purview) and create custom policy as well as verifying existing ones are correct.
