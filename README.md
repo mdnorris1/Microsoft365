@@ -21,7 +21,8 @@ Configure one of your users, Diego Siciliani, with a Microsoft Entra user admini
 Scenario 5: Compliance
 Create a Data Loss Prevention Policy and check existing ones are suitable.
 
-
+<br>
+<br>
 
 Scenario 1
 Create users
@@ -33,13 +34,14 @@ We used a netscan command:
 
 
 <br/>
-<img src="assets/1a.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture1.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 We found a computer had an established connection to another system and this was unusual.
 
+
 <br/>
-<img src="assets/connection.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/connection.png" height="10%" width="50%" alt="ifconfig command"/>
 <br />
 
 Next, we needed to see the processes / process IDs so ran this code:
