@@ -27,55 +27,55 @@ Create a Data Loss Prevention Policy and check existing ones are suitable.
 <h2>Scenario 1</h2>
 Create users
 
-
+<br>
 
 
 <br/>
-<img src="assets/Picture1.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture1.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br/>
-<img src="assets/Picture2.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture2.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Begin auditing user and admin activity to enable logs for analysis.
 
 <br/>
-<img src="assets/Picture3.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture3.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Assign licenses.
 
 <br/>
-<img src="assets/Picture4.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture4.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture5.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture5.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture6.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture6.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Next, I configured the authentication methods and settings. 
 <br>
 
 <br/>
-<img src="assets/Picture7.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture7.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture8.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture8.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture9.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture9.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture10.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture10.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture11.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture11.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture12.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture12.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br>
 
@@ -83,19 +83,19 @@ Add users to Self-service password reset group.
 <br>
 
 <br/>
-<img src="assets/Picture13.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture13.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture14.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture14.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture15.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture15.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture16.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture16.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture17.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture17.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br>
 
@@ -104,28 +104,28 @@ Use the User sign-in logs, audit logs and the Usage & insights data associated w
 <br>
 
 <br/>
-<img src="assets/Picture18.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture18.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture19.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture19.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture20.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture20.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture21.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture21.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture22.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture22.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture23.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture23.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture24.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture24.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture25.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture25.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br>
@@ -134,28 +134,28 @@ Create a policy that will require a user to go through multi-factor authenticati
 <br>
 
 <br/>
-<img src="assets/Picture26.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture26.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture27.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture27.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture28.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture28.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture29.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture29.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture30.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture30.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture31.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture31.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture32.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture32.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture33.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture33.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br>
@@ -164,13 +164,13 @@ Configure one of your users, Diego Siciliani, with a Microsoft Entra user admini
 <br>
 
 <br/>
-<img src="assets/Picture34.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture34.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture35.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture35.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture36.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture36.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br>
@@ -179,13 +179,13 @@ Uncheck the permanently eligible box as this is a time-limited privilege.
 <br>
 
 <br/>
-<img src="assets/Picture37.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture37.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture38.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture38.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture39.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture39.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br>
@@ -197,7 +197,7 @@ Go to the Compliance admin centre (Purview) and create custom policy as well as 
 <br>
 
 <br/>
-<img src="assets/Picture40.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture40.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br>
 Click create policy and complete information relevant to your organisation.
@@ -205,10 +205,10 @@ Next, check existing policies such as the GDPR one.
 
 <br>
 <br/>
-<img src="assets/Picture41.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture41.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 <br/>
-<img src="assets/Picture42.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture42.png" width="800" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br>
