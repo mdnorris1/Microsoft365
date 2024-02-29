@@ -37,64 +37,126 @@ We used a netscan command:
 <img src="assets/Picture1.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
-We found a computer had an established connection to another system and this was unusual.
-
-
 <br/>
-<img src="assets/connection.png" height="10%" width="50%" alt="ifconfig command"/>
+<img src="assets/Picture2.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-Next, we needed to see the processes / process IDs so ran this code:
-
 <br/>
-<img src="assets/processes.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture3.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-The cmd.exe stands out as being unusual for every day user interaction.
-
 <br/>
-<img src="assets/cmd.exe.png" height="100%" width="100%" alt="ifconfig command"/>
+<img src="assets/Picture4.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-pstree command provided us with more detail:
-
 <br/>
-<img src="assets/pstree.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture5.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-
-Below, you can see that we traced back the parent process for one of the cmd.exe files back to TrustMe.exe. The parent processes helps create a sort of timeline for the processes or actions on the system.
-
-Also, the parent process for TrustMe was Explorer.exe. This means it was invoked by the user on the system, as Explorer.exe is the GUI process for Windows 10.
-
 <br/>
-<img src="assets/parent processes.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture6.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-Using the dlllist command helped look into the TrustMe.exe process a bit further:
-
 <br/>
-<img src="assets/dll list.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture7.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
 <br/>
-<img src="assets/dll list 2.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture8.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-Here you can see the dll's associated with the TrustMe process.
-
-We can also see the command line in this process which is useful as it can tell us where on the system it was executed from.
-
-Finally, let’s look at the use of malfind. This module will look at the processes for any suspicious activities, looking for characteristics used by malware.
-
 <br/>
-<img src="assets/malfind.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture9.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-We found an executable with Read and Write when such a combination doesn't usually need to occur for everyday user activity.
-
 <br/>
-<img src="assets/malfind2.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/Picture10.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
-
-Hope you enjoyed the project!
+<br/>
+<img src="assets/Picture11.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture12.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture13.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture14.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture15.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture16.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture17.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture18.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture19.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture20.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture21.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture22.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture23.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture24.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture25.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture26.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture27.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture28.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture29.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture30.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture31.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture32.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture33.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture34.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture35.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture36.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture37.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture38.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture39.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture40.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture41.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+<br/>
+<img src="assets/Picture42.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
