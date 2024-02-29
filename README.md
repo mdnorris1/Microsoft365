@@ -30,9 +30,6 @@ Create users
 
 
 
-We used a netscan command: 
-
-
 <br/>
 <img src="assets/Picture1.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
@@ -40,9 +37,15 @@ We used a netscan command:
 <br/>
 <img src="assets/Picture2.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
+
+Begin auditing user and admin activity to enable logs for analysis.
+
 <br/>
 <img src="assets/Picture3.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
+
+Assign licenses.
+
 <br/>
 <img src="assets/Picture4.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
@@ -52,6 +55,8 @@ We used a netscan command:
 <br/>
 <img src="assets/Picture6.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
+
+Next, I configured the authentication methods and settings. 
 <br/>
 <img src="assets/Picture7.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
