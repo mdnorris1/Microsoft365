@@ -1,6 +1,7 @@
 # Microsoft 365 (Azure/Entra/Purview)
 
 Cloud Security and Compliance
+
 Microsoft 365 are automatically using Azure AD, so you can access Azure Entra AD features and services through either the Microsoft 365 admin portal or through the Azure portal. 
 
 Scenario 1: Account configuration
@@ -19,6 +20,8 @@ Configure one of your users, Diego Siciliani, with a Microsoft Entra user admini
 
 Scenario 5: Compliance
 Create a Data Loss Prevention Policy and check existing ones are suitable.
+
+
 
 Scenario 1
 Create users
