@@ -1,23 +1,27 @@
 # Microsoft 365 (Azure/Entra/Purview)
 
-Cloud Security and Compliance
+<h2>Cloud Security and Compliance</h2>
 
-Scenario 1: 
+<h3>Scenario 1:</h3> 
+
 • Account configuration
+
 •	Create new users, add them to groups and assign licenses.
+
 •	Configure authentication process by enabling password reset and configuring the settings.
+
 •	Add users to Self-service password reset group.
 
-Scenario 2: Analytics 
+<h3>Scenario 2: Analytics</h3> 
 Use the Audit logs and the Usage & insights data associated with password resets by users.
 
-Scenario 3: Set up Multi-Factor Authentication (MFA)
+<h3>Scenario 3: Set up Multi-Factor Authentication (MFA)</h3>
 Create a policy that will require a user to go through multi-factor authentication when accessing any of the Microsoft Admin portals
 
-Scenario 4: Privileged Identity Management (PIM)
+<h3>Scenario 4: Privileged Identity Management (PIM)</h3>
 Configure one of your users, Diego Siciliani, with a Microsoft Entra user administrator role, through Privileged ID management (PIM). With user admin privileges, Diego will be able to create users and groups manage licenses, and more. Both the admin and the user, Diego, must be configured for Microsoft Entra ID P2 licensing.
 
-Scenario 5: Compliance
+<h3>Scenario 5: Compliance</h3>
 Create a Data Loss Prevention Policy and check existing ones are suitable.
 
 <br>
