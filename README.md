@@ -2,10 +2,9 @@
 
 Cloud Security and Compliance
 
-Microsoft 365 are automatically using Azure AD, so you can access Azure Entra AD features and services through either the Microsoft 365 admin portal or through the Azure portal. 
-
-Scenario 1: Account configuration
-•	Create users, add to groups, assign licenses.
+Scenario 1: 
+• Account configuration
+•	Create new users, add them to groups and assign licenses.
 •	Configure authentication process by enabling password reset and configuring the settings.
 •	Add users to Self-service password reset group.
 
@@ -160,7 +159,8 @@ Create a policy that will require a user to go through multi-factor authenticati
 
 <br>
 <h2> Scenario 4: Privileged Identity Management (PIM) </h2>
-Configure one of your users, Diego Siciliani, with a Microsoft Entra user administrator role, through Privileged ID management (PIM). With user admin privileges, Diego will be able to create users and groups manage licenses, and more. Both the admin and the user, Diego, must be configured for Microsoft Entra ID P2 licensing.
+Configure one of your users, Diego Siciliani, with a Microsoft Entra user administrator role, through Privileged ID management (PIM). With user admin privileges, Diego will be able to create users and groups manage licenses, and more. Both the admin and the user, Diego, must be configured for Microsoft Entra ID P2 licensing. 
+
 <br>
 
 <br/>
