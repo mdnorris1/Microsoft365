@@ -133,7 +133,7 @@ Use the User sign-in logs, audit logs and the Usage & insights data associated w
 
 <br>
 <h2> Scenario 3: Multi-factor Authentication </h2>
-Create a policy that will require a user to go through multi-factor authentication when accessing any of the Microsoft Admin portals
+Create a policy that will require a user to go through multi-factor authentication when accessing any of the Microsoft Admin portals.
 <br>
 
 <br/>
